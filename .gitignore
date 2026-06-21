@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# Python / Byte-compiled / optimization files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# FAISS local vector store files (if you ever save them to disk)
+*.faiss
+*.pkl
