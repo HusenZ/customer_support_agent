@@ -1,0 +1,51 @@
+[
+  {
+    "id": "order-cancellation",
+    "title": "Order Cancellation Policy",
+    "category": "orders",
+    "content": "Users can cancel an order within 2 hours of purchase from their dashboard. After 2 hours, orders enter processing and cannot be canceled manually.",
+    "keywords": ["cancel", "cancellation", "order", "purchase", "dashboard"]
+  },
+  {
+    "id": "refund-policy",
+    "title": "Refund Eligibility",
+    "category": "refunds",
+    "content": "Refund requests are accepted within 30 days of product delivery. Items must be unopened, unused, and returned in the original packaging.",
+    "keywords": ["refund", "return", "package", "delivery", "unopened"]
+  },
+  {
+    "id": "shipping-times",
+    "title": "Shipping Timelines",
+    "category": "shipping",
+    "content": "Standard shipping takes 3 to 5 business days. Express shipping takes 1 to 2 business days.",
+    "keywords": ["shipping", "delivery", "express", "standard", "days"]
+  },
+  {
+    "id": "damaged-items",
+    "title": "Damaged or Broken Items",
+    "category": "damaged_items",
+    "content": "If an item arrives damaged, customers should contact support immediately with photos. A replacement or refund can be issued after verification.",
+    "keywords": ["damaged", "broken", "photos", "replacement", "refund"]
+  },
+  {
+    "id": "billing-disputes",
+    "title": "Billing Disputes and Chargebacks",
+    "category": "billing",
+    "content": "Billing disputes, chargebacks, and payment failures require human review. Customers should contact support with the last four digits of the payment method and the transaction date.",
+    "keywords": ["billing", "chargeback", "payment", "invoice", "dispute"]
+  },
+  {
+    "id": "account-security",
+    "title": "Account Security Guidance",
+    "category": "account",
+    "content": "If a customer suspects account takeover or unauthorized access, they should reset their password immediately, review recent sessions, and contact support for manual account review.",
+    "keywords": ["account", "security", "hack", "takeover", "password"]
+  },
+  {
+    "id": "subscription-management",
+    "title": "Subscription Management",
+    "category": "subscription",
+    "content": "Subscriptions can be paused or canceled from the billing portal. Changes apply to the next billing cycle unless the current cycle is still within the free-trial window.",
+    "keywords": ["subscription", "pause", "cancel", "billing portal", "trial"]
+  }
+]

@@ -20,3 +20,5 @@ Thumbs.db
 # FAISS local vector store files (if you ever save them to disk)
 *.faiss
 *.pkl
+data/support.db
+data/vectorstore/
